@@ -12,9 +12,9 @@ You need some values as below.
 - Authorization Token
 
 ## Requirement
-axios (0.16.1)
-livescript (1.5.0)
-node-cron (1.1.3)
+- axios (0.16.1)
+- livescript (1.5.0)
+- node-cron (1.1.3)
 
 ## Usage
 Fill some values as below.
