@@ -1,7 +1,7 @@
-Name
+## Name
 auto-list-generator-for-trello
 
-Overview
+## Overview
 Generating a list automatically for trello.
 
 ## Description
