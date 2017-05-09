@@ -17,10 +17,15 @@ You need some values as below.
 - node-cron (1.1.3)
 
 ## Usage
+```
+npm i
+```
+
 Fill some values as below.
 - Application Key
 - idBoard (id of the board that the list should be added to)
 - Authorization Token
+
 ```
 npm start
 ```
