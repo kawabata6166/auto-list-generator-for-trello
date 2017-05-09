@@ -21,12 +21,9 @@ Fill some values as below.
 - Application Key
 - idBoard (id of the board that the list should be added to)
 - Authorization Token
-
-lsc app.ls
-
-## Install (after cloning)
-npm install
-npm install -g livescript
+```
+npm start
+```
 
 ## Licence
 ISC
